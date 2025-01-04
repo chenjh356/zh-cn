@@ -13,7 +13,7 @@
 
 
 {% for author in pub.authors -%}
-{%- if author == site.author.name -%}
+{%- if author == site.author.name or author == site.author.enname -%}
 <a href="#" onclick="event.preventDefault()" style="white-space: nowrap;display: inline-block;">`{{ author }}`</a>
 {%- else -%}
 <a href="#" onclick="event.preventDefault()" style="white-space: nowrap;display: inline-block;">{{ author }}</a>
@@ -32,7 +32,7 @@
 {% else %}
 - **{{pub.title}}**&ensp;
 {%- for author in pub.authors -%}
-{%- if author == site.author.name -%}
+{%- if author == site.author.name or author == site.author.enname -%}
 <a href="#" onclick="event.preventDefault()" style="white-space: nowrap;display: inline-block;">`{{ author }}`</a>
 {%- else -%}
 <a href="#" onclick="event.preventDefault()" style="white-space: nowrap;display: inline-block;">{{ author }}</a>

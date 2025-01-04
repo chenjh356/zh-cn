@@ -22,6 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "陈俊宏"
+  enname           : "Junhong Chen"
   avatar           : "images/avatar.jpeg"
   bio              : "中山大学"
   location         : "深圳 中国"
@@ -59,11 +60,11 @@ author:
   wikipedia        :
 
 education:
-  - degree: "BMed"
-    major: "Preventive Medicine"
-    institution: "Sun Yat-sen University(SYSU)"
-    time: "Sep. 2018 - Jun. 2023"
-    location: "Guangzhou, China"
+  - degree: "医学学士"
+    major: "预防医学"
+    institution: "中山大学"
+    time: "2018.09 - 2023.06"
+    location: "中国, 广州"
     img: "images/SYSU.png"
 
 publications:
@@ -72,7 +73,7 @@ publications:
     journal: "mBio"
     year: "2024"
     img: "images/urine.png"
-    position: "Co-First"
+    position: "共一"
     html: "https://journals.asm.org/doi/10.1128/mbio.02773-24"
     pdf: "/pdf/unraveling-the-impact-of-host-genetics-and-factors-on-the-urinary-microbiome-in-a-young-population.pdf"
     other: "2024: e02773-24"
@@ -84,7 +85,7 @@ publications:
     journal: "JMRI"
     year: "2024"
     img: "images/jmri29499.png"
-    position: "Co-First"
+    position: "共一"
     html: "https://onlinelibrary.wiley.com/doi/10.1002/jmri.29499"
     pdf: "/pdf/Magnetic%20Resonance%20Imaging%20-%202024%20-%20Li%20-%20Deep%20Learning%20Assisted%20Classification%20of%20T1%20%E2%80%90MR%20Based%20Intervertebral%20Disc.pdf"
     other: "2024"
@@ -96,7 +97,7 @@ publications:
     journal: "Journal of Translational Medicine"
     year: "2023"
     img: "images/TM.png"
-    position: "Author"
+    position: "作者"
     html: "https://translational-medicine.biomedcentral.com/articles/10.1186/s12967-023-04023-8"
     pdf: "/pdf/s12967-023-04023-8.pdf"
     other: "21, 214 (2023)"
@@ -108,7 +109,7 @@ publications:
     journal: "International Journal of Cancer"
     year: "2023"
     img: "images/ijc.png"
-    position: "Author"
+    position: "作者"
     html: "https://onlinelibrary.wiley.com/doi/10.1002/ijc.34647"
     pdf: "/pdf/Intl%20Journal%20of%20Cancer%20-%202023%20-%20Cao%20-%20China%20special%20issue%20on%20gastrointestinal%20tumors%E2%80%90Radiological%20features%20of%20pathological.pdf"
     other: "2023; 153(11): 1894-1903"
@@ -120,7 +121,7 @@ publications:
     journal: "Gastroenterology Report"
     year: "2024"
     img:
-    position: "Author"
+    position: "作者"
     html: "https://academic.oup.com/gastro/article/doi/10.1093/gastro/goae035/7656397"
     pdf: "/pdf/goae035.pdf"
     other: "Volume 12, 2024, goae035"
@@ -132,31 +133,31 @@ publications:
     journal: "Transboundary and Emerging"
     year: "2022"
     img:
-    position: "Author"
+    position: "作者"
     html: "https://onlinelibrary.wiley.com/doi/10.1111/tbed.14492"
     pdf: "/pdf/Transbounding%20Emerging%20Dis%20-%202022%20-%20Cao%20-%20Drivers%20and%20forecasts%20of%20multiple%20waves%20of%20the%20coronavirus%20disease%202019%20pandemic%20.pdf"
     other: "69, e1584–e1594"
     JCR: "Q1"
     IF: "3.5"
 
-  - title: "(Chinese)Statistical methods comparison for estimating the distribution of COVID-19 incubation period"
-    authors: [Yu Liu, Bingting Zhuo, Junhong Chen, Zhicheng Du, Yuantao Hao]
-    journal: "Chinese Journal of Health Statistics"
+  - title: "COVID-19潜伏期分布估计的统计学方法比较"
+    authors: [刘裕, 卓冰婷, 陈俊宏, 杜志成, 郝元涛]
+    journal: "中国卫生统计"
     year: "2023"
     img: 
-    position: "Author"
+    position: "作者"
     html: "http://dx.doi.org/10.11783/j.issn.1002-3674.2023.04.013"
     pdf: "pdf/COVID-19%E6%BD%9C%E4%BC%8F%E6%9C%9F%E5%88%86%E5%B8%83%E4%BC%B0%E8%AE%A1%E7%9A%84%E7%BB%9F%E8%AE%A1%E5%AD%A6%E6%96%B9%E6%B3%95%E6%AF%94%E8%BE%83.pdf"
     other: "2023,40(4):540-545+548"
     JCR: "PKU 1"
     IF: "1.228"
 
-  - title: "(Chinese)Design and implementation of information technology service automation notification platform based on big data analysis."
-    authors: [Lin Luo, Jinping Luo, Junhong Chen]
-    journal: "East China Science and Technology"
+  - title: "基于大数据分析的信息技术服务自动化通知平台设计与实现"
+    authors: [罗霖, 罗金平, 陈俊宏]
+    journal: "华东科技"
     year: "2023"
     img: 
-    position: "Author"
+    position: "作者"
     html: "https://kns.cnki.net/kcms2/article/abstract?v=TI3o-D_a8xlCvzxU4YrVs8yJAThkI8pTjAl9jcrULLHhY2pD0VHtRs2hJL5rO1ofCoFvTBD4t-iNKgOtBi9NrwS0t0Z83kd2YOr8o-OS6S61uXL-LkUAjImsHgv3l2lfdqoL-JjKB4htHAz4aHoipvCFT5_xmdb8k_lRYUOXfIsC0hGe3MNQlEdMC05QSPVq&uniplatform=NZKPT&language=CHS"
     pdf: "/pdf/%E5%9F%BA%E4%BA%8E%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E7%9A%84%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF%E6%9C%8D%E5%8A%A1%E8%87%AA%E5%8A%A8%E5%8C%96%E9%80%9A%E7%9F%A5%E5%B9%B3%E5%8F%B0%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%AE%9E%E7%8E%B0.pdf"
     other: "2023,(08):101-103"
@@ -164,60 +165,60 @@ publications:
     IF: "-"
 
 patents:
-  - title: "The combination of 12 biomarkers for high triglycerides and their application"
-    authors: [Junhong Chen, Xiaomin Liu, Tao Zhang]
+  - title: "高甘油三酯的12种生物标志物组合及其应用"
+    authors: [陈俊宏, 刘小敏, 张涛]
     appno: "P2024-1-0266.CN"
     authno: 
     html: 
     pdf: 
 
-  - title: "Methods and applications for predicting colorectal cancer risk based on the llama large language model using gut microbiota"
-    authors: [Junhong Chen, Zhe Zhang, Kexin Zhang, Chao Zhang, Peng Yin, Zhuye Jie, Xin Tong, Tao Zhang, Yong Zhang]
+  - title: "基于llama大语言模型肠道菌群预测结直肠癌风险的方法和应用"
+    authors: [陈俊宏, 张喆, 张可欣, 张超, 殷鹏, 揭著业, 仝欣, 张涛, 张勇]
     appno: P2024-1-0273.CN
     authno: 
     html: 
     pdf: 
 
-  - title: Methods and applications for predicting inflammatory bowel disease risk based on the llama large language model using gut microbiota
-    authors: [Junhong Chen, Chao Zhang, Zhe Zhang, Peng Yin, Lihui Wang, Kexin Zhang, Tao Zhang, Yong Zhang]
+  - title: 基于llama大语言模型肠道菌群预测炎症性肠病风险的方法和应用
+    authors: [陈俊宏, 张超, 张喆, 殷鹏, 汪李慧, 张可欣, 张涛, 张勇]
     appno: P2025-1-0005.CN
     authno: 
     html: 
     pdf: 
 
-  - title: "The combination of 15 biomarkers for hyperuricemia and its application"
-    authors: [Xiaomin Liu, Junhong Chen, Tao Zhang]
+  - title: "高尿酸血症的15种生物标志物组合及其应用"
+    authors: [刘小敏, 陈俊宏, 张涛]
     appno: "P2024-1-0265.CN"
     authno: 
     html: 
     pdf:
 
-  - title: "Methods and applications for predicting vital health indices based on llama large language model with human commensal flora"
-    authors: [Zhe Zhang, Junhong Chen, Peng Yin, Chao Zhang, Kexin Zhang, Tao Zhang, Yong Zhang]
+  - title: "基于llama大语言模型人体共生菌群预测生命健康指数的方法和应用"
+    authors: [张喆, 陈俊宏, 殷鹏, 张超, 张可欣, 张涛, 张勇]
     appno: P2025-1-0006.CN
     authno: 
     html: 
     pdf: 
 
-  - title: "A convenient application method for staging disc degeneration based on T1ρ- MR"
-    authors: [Fuxin Wei, Wuteng Cao, Yanrun Li, Junhong Chen, Zemin Ling]
+  - title: "一种基于T1ρ-MR的椎间盘退变分期的便捷应用方法"
+    authors: [魏富鑫, 曹务腾, 李砚润, 陈俊宏, 凌泽民]
     appno: 
     authno: 
     html: 
     pdf: 
 
 softwares:
-  - title: "Pathology section cell counting software"
-    authors: [Wuteng Cao, Junhong Chen,Yuzhe Xu,  Jiao Li, Xinhua Wang, Qianyu Wu, Yue Wu]
+  - title: "病理切片细胞数目统计软件 V1.0"
+    authors: [曹务腾, 陈俊宏, 黎娇, 许宇喆, 王馨华, 吴倩羽, 吴越]
     regno: 2024SR0193449
     html: https://register.ccopyright.com.cn/publicInquiry.html?type=softList&registerNumber=2024SR0193449&keyWord=%E7%97%85%E7%90%86%E5%88%87%E7%89%87%E7%BB%86%E8%83%9E%E6%95%B0%E7%9B%AE%E7%BB%9F%E8%AE%A1%E8%BD%AF%E4%BB%B6&publicityType=ALL&registerDateType=ALL
-    pdf: pdf/pathology.pdf
+    pdf: /pdf/pathology.pdf
 
-  - title: "Single cell analysis platform"
-    authors: [Wuteng Cao, Junhong Chen, Jiao Li, Yuzhe Xu, Qianyu Wu, Yue Wu, Xinhua Wang]
+  - title: "单细胞分析平台 V1.0"
+    authors: [曹务腾, 陈俊宏, 许宇喆, 黎娇, 吴倩羽, 吴越, 王馨华]
     regno: 2024SR0025891
     html: https://register.ccopyright.com.cn/publicInquiry.html?type=softList&registerNumber=2024SR0025891&keyWord=%E5%8D%95%E7%BB%86%E8%83%9E%E5%88%86%E6%9E%90%E5%B9%B3%E5%8F%B0&publicityType=ALL&registerDateType=ALL
-    pdf: pdf/singlecell.pdf
+    pdf: /pdf/singlecell.pdf
     
   
   
