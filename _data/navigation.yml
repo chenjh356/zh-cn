@@ -4,16 +4,27 @@ main:
     url: "/zh-cn/#about-me"
 
   - title: "学历"
-    url: "/zh-cn/#-xl"
-
-  - title: "论文专利"
-    url: "/zh-cn/#-lwzl"
-
-  - title: "荣誉奖项"
-    url: "/zh-cn/#-ryjx"
-
-  - title: "学术会议"
-    url: "/zh-cn/#-xshy"
+    url: "/zh-cn/#educations"
 
   - title: "工作实习"
-    url: "/zh-cn/#-gzsx"
+    url: "/zh-cn/#experiences"
+
+  - title: "科研论文"
+    url: "/zh-cn/#publications"
+
+  - title: "专利"
+    url: "/zh-cn/#patents"
+
+  - title: "软著"
+    url: "/zh-cn/#softwares"
+
+  - title: "荣誉奖项"
+    url: "/zh-cn/#honors-and-awards"
+
+  - title: "学术会议"
+    url: "/zh-cn/#conferences"
+  - title: "教学"
+    url: "/zh-cn/#teaching"
+
+  - title: "其他"
+    url: "/zh-cn/#miscellaneous"
