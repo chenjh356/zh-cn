@@ -18,17 +18,17 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # <i class="fa fa-id-card" aria-hidden="true"></i>&ensp; 简介
-I am a Senior Research Associate at [**BGI Research**](https://en.genomics.cn/), utilizing large language models to predict health with human microbiome. I earned my Bachelor's degree in Medicine with a specialization in Preventive Medicine from [**Sun Yat-sen University**](https://www.sysu.edu.cn/sysuen/), honored to be advised by  [Prof. Qian Jun](https://phs.sysu.edu.cn/zh-hans/teacher/510). Previously, I completed a clinical internship at [**the Seventh Affiliated Hospital, Sun Yat-sen University**](https://www.sysush.com/en). To date, I have published 7 research papers with <a href='https://scholar.google.com/citations?user=jqslgHAAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+&emsp;&emsp;我是[**华大基因生命科学研究院**](https://www.genomics.cn/)的高级研究助理，利用大型语言模型基于微生物组预测人类健康。我在[**中山大学**](https://www.sysu.edu.cn/)有幸在[**钱军教授**]((https://phs.sysu.edu.cn/zh-hans/teacher/510))和华大基因的刘小敏副研究员的指导，完成本科毕业设计，获得了预防医学专业的医学学士学位。之前，我在[**中山大学附属第七医院**](https://www.sysush.com)完成了临床实习。迄今为止，我已发表了7篇研究论文<a href='https://scholar.google.com/citations?user=jqslgHAAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>。
 
-<span style="color: purple;">I am now preparing to pursue a PhD, with the intention of enrolling in either the School of Computer Science or the School of Medicine. If your research team has opportunities that align with my background and aspirations, I would be thrilled to discuss. Feel free to contact me!</span>
+<span style="color: purple;">&emsp;&emsp;我现在正准备攻读博士学位，计划申请计算机科学院或医学院。如果贵研究团队有符合我的背景和研究兴趣的机会，我将非常高兴与您讨论。请随时联系我！</span>
 
-My research interest includes: 
-- AI in Healthcare
-- Machine Learning and Deep Learning
-- Statistical analysis
-- Medical imaging analysis
-- Natural Language Processing
-- Programming
+我的研究兴趣和领域包括: 
+- 医疗人工智能
+- 机器学习和深度学习
+- 统计学分析
+- 医学影像分析
+- 自然语言处理
+- 编程
 
 
 <!-- # 🎓 Educations 
@@ -100,29 +100,30 @@ My research interest includes:
 
 <span class='anchor' id='honors-and-awards'></span>
 # 🏅&ensp; 荣誉奖项
-- *2023.12* &emsp;Dragon Soars, Tiger Leaps Award (for deploying and optimizing automation processes, awarded by BGI)
-- *2022.09* &emsp;Sun Yat-sen University Scholarship.
-- *2021.04*  &emsp;Meritorious Winner of Interdisciplinary Contest In Modeling ([COMAP](https://www.comap.com/)) [[Certificate](pdf/2112179.pdf)]
-- *2020.06* &emsp;Excellence Award of Guangdong Health Science Popularization Competition
-- *2019.09* &emsp;Sun Yat-sen University Scholarship.
-- *2016.09* &emsp;Song Qingling Scholarship ([GUANG DONG SONG QING LING FOUNDATION](http://www.gdsclf.org/)).
+- *2023.12* &emsp;BGI龙腾虎跃奖 (布局及优化自动化流程，累计完成超5万样本的自动化交付)
+- *2023.01* &emsp;中国健康科普大赛优秀奖 [[作品](/pdf/%E5%88%86%E9%A4%90%E5%88%B6%E7%9A%84%E5%89%8D%E4%B8%96%E4%BB%8A%E7%94%9F.pdf)]&ensp;[[证书](/pdf/%E5%85%A8%E5%9B%BD%E7%A7%91%E6%99%AE%E5%A4%A7%E8%B5%9B.pdf)]
+- *2022.09* &emsp;中山大学奖学金.
+- *2021.04*  &emsp;美国数学建模大赛一等奖 ([COMAP](https://www.comap.com/)) [[证书](/pdf/2112179.pdf)]
+- *2020.06* &emsp;广东省健康科普大赛优秀奖
+- *2019.09* &emsp;中山大学奖学金.
+- *2016.09* &emsp;宋庆龄奖学金 ([广东省宋庆龄基金会](http://www.gdsclf.org/)).
 
 <span class='anchor' id='conferences'></span>
 # 💬&ensp; 学术会议
-- *2024.11* &emsp;The 19th Annual Meeting of the International Conference on Genomics ([ICG-19](https://en.genomics.cn/en-news-278-7053.html)), Shenzhen China, Visitor and Volunteer.
-- *2024.06* &emsp;Academic Conference on Modern Life Science-based Health Management, Wuhan China, Honored guest.
+- *2024.11* &emsp;第十九届国际基因组学大会([ICG-19](https://www.genomics.cn/news/info_itemid_7150.html)), 中国深圳, 参会人和志愿者.
+- *2024.06* &emsp;第一届（2024）现代生命科学治理健康学术研讨会, 中国武汉, 荣誉嘉宾.
 
 <span class='anchor' id='teaching'></span>
 # <i class="fa fa-chalkboard-teacher"></i>&ensp; 教学授课
 
-- *2024.09* &emsp;**BGI Cource: Design and case analysis of meta-genome association study**. Teaching Assistant (TA), with A.R. [Xiaomin Liu](https://scholar.google.com/citations?user=rUwI1DkAAAAJ)
+- *2024.09* &emsp;**华大教育学院: 宏基因组关联研究的设计和案例分析**. 教学助理, 协助副研究员[刘小敏](https://scholar.google.com/citations?user=rUwI1DkAAAAJ)共同完成授课
 
 <span class='anchor' id='miscellaneous'></span>
 # &nbsp;<i class="fa fa-heartbeat" aria-hidden="true" ></i>&ensp; 其他
-- I'm an sport nut. I love to play badminton and well master in it. I led my team in the badminton team competition as captain and won the championship at the BGI Fall Games in 2024! [[News](https://mp.weixin.qq.com/s/tOfF7diNTUB2ARJZrjgszg)]
-- Programming is one of my favorites. My best programming language is Python, and I especially enjoy writing code to implement features to make our lives easier, which gives me a great sense of accomplishment. Following is my works：
-  - [Sun Yat-sen University Student Assistant Management Platform](https://sznc.home.ealeo.xyz:6443/admin)
-  - [Analysis of the trajectory of Covid-19 patients in Hainan Province](http://covid-19.infdr.cn/analysis/)
-  - [Epidemic Investigation Trajectory Text Structuring Tool](http://covid-19.infdr.cn/app/)
-  - WeChat Mini Program: Sun Yat-sen University Information Technology Service Help Desk
+- 我是擅长多种体育运动。我最喜欢的体育运动是羽毛球。作为华大基因研究院羽毛球队的队长，我带领我的团队在2024年BGI秋季运动会的羽毛球团体比赛中获得冠军! [[新闻](https://mp.weixin.qq.com/s/tOfF7diNTUB2ARJZrjgszg)]
+- 编程是我最喜欢的事情之一。我最擅长的编程语言是Python，尤其喜欢编写代码来实现让我们生活更加便利的功能，这给予了我很大的成就感。以下是我的部分作品：
+  - [中山大学大学服务中心学生助理管理系统](https://sznc.home.ealeo.xyz:6443/admin)
+  - [海南省新冠肺炎患者轨迹文本分析](http://covid-19.infdr.cn/analysis/)
+  - [流行病调查轨迹文本结构工具](http://covid-19.infdr.cn/app/)
+  - 微信小程序: 中山大学信息技术帮助台
   

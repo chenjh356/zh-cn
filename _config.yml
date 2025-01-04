@@ -25,7 +25,7 @@ author:
   enname           : "Junhong Chen"
   avatar           : "images/avatar.jpeg"
   bio              : "中山大学"
-  location         : "深圳 中国"
+  location         : "中国 深圳"
   employer         : "华大基因生命科学研究院"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=jqslgHAAAAAJ"
@@ -149,7 +149,7 @@ publications:
     html: "http://dx.doi.org/10.11783/j.issn.1002-3674.2023.04.013"
     pdf: "pdf/COVID-19%E6%BD%9C%E4%BC%8F%E6%9C%9F%E5%88%86%E5%B8%83%E4%BC%B0%E8%AE%A1%E7%9A%84%E7%BB%9F%E8%AE%A1%E5%AD%A6%E6%96%B9%E6%B3%95%E6%AF%94%E8%BE%83.pdf"
     other: "2023,40(4):540-545+548"
-    JCR: "PKU 1"
+    JCR: "北大核心1区"
     IF: "1.228"
 
   - title: "基于大数据分析的信息技术服务自动化通知平台设计与实现"
@@ -161,7 +161,7 @@ publications:
     html: "https://kns.cnki.net/kcms2/article/abstract?v=TI3o-D_a8xlCvzxU4YrVs8yJAThkI8pTjAl9jcrULLHhY2pD0VHtRs2hJL5rO1ofCoFvTBD4t-iNKgOtBi9NrwS0t0Z83kd2YOr8o-OS6S61uXL-LkUAjImsHgv3l2lfdqoL-JjKB4htHAz4aHoipvCFT5_xmdb8k_lRYUOXfIsC0hGe3MNQlEdMC05QSPVq&uniplatform=NZKPT&language=CHS"
     pdf: "/pdf/%E5%9F%BA%E4%BA%8E%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E7%9A%84%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF%E6%9C%8D%E5%8A%A1%E8%87%AA%E5%8A%A8%E5%8C%96%E9%80%9A%E7%9F%A5%E5%B9%B3%E5%8F%B0%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%AE%9E%E7%8E%B0.pdf"
     other: "2023,(08):101-103"
-    JCR: "Provincial-level technical category"
+    JCR: "省级科技分类"
     IF: "-"
 
 patents:

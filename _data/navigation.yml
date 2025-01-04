@@ -3,10 +3,10 @@ main:
   - title: "简介"
     url: "/zh-cn/#about-me"
 
-  - title: "学历"
+  - title: "教育背景"
     url: "/zh-cn/#educations"
 
-  - title: "工作实习"
+  - title: "工作经历"
     url: "/zh-cn/#experiences"
 
   - title: "科研论文"
