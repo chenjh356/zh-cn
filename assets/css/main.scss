@@ -109,31 +109,31 @@ h1:before, .anchor:before {
 }
 .container {
     display: flex;
-    align-items: center; /* 垂直居中 */
-    width: 90%; /* 根据需要调整宽度 */
-    margin: 0 auto; /* 居中容器 */
-    margin-bottom: 15px; /* 控制上下间距 */
+    align-items: center;
+    width: 90%;
+    margin: 0 auto;
+    margin-bottom: 15px;
 }
 
 .degree {
-    flex: 1; /* 占据一列 */
-    padding-right: 20px; /* 控制间距 */
-    display: flex; /* 使用flex布局 */
-    align-items: center; /* 垂直居中 */
+    flex: 1;
+    padding-right: 20px;
+    display: flex;
+    align-items: center;
 }
 
 .details {
-    flex: 3; /* 占据三列 */
-    padding-right: 20px; /* 控制间距 */
+    flex: 3;
+    padding-right: 20px;
 }
 
 .image {
-    flex: 0 0 10%; /* 固定宽度 */
+    flex: 0 0 10%;
 }
 
 .image img {
-    width: 100%; /* 使图片占满容器 */
-    display: block; /* 去除底部空白 */
-    margin-left: auto; /* 左右居中 */
+    width: 100%;
+    display: block;
+    margin-left: auto;
     margin-right: auto;
 }
