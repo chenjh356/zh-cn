@@ -6,6 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
+encoding: utf-8
 title                    : "陈俊宏"
 description              : "健康和医学中的人工智能"
 repository               : "chenjh356/chenjh356.github.io"
